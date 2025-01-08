@@ -1,0 +1,16 @@
+1|2|Bijan|Robinson
+2|2|Derrick|Henry
+6|2|Josh|Jacobs
+3|3|DK|Metcalf
+4|3|Deebo Samuel
+5|4|T.J.|Hockenson
+0|1|Aaron|Rodgers
+9|3|DJ|Moore
+10|2|David|Montgomery
+11|2|Isiah|Pacheco
+12|3|Skyy|Moore
+13|3|Courtland|Sutton
+14|3|Gabe|Davis
+15|2|Jerick|McKinnon
+7|5|Dallas|Cowboys
+8|6|Graham|Gano
